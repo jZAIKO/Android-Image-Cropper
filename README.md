@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/jZAIKO/Android-Image-Cropper.svg)](https://jitpack.io/#jZAIKO/Android-Image-Cropper)
+
 Android Image Cropper
 =======
 
