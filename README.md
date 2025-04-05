@@ -33,6 +33,9 @@ Android Image Cropper
      api 'com.theartofdev.edmodo:android-image-cropper:2.8.+'
  }
  ```
+dependencies {
+	        implementation("com.github.jZAIKO:Android-Image-Cropper:0.1")
+	}
 
 Add permissions to manifest
 
